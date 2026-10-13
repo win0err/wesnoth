@@ -18,8 +18,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-httt\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-02 13:56+0500\n"
-"Last-Translator: Alexandr Obolonkin (Alexinor) <obolonkin@proton.me>\n"
+"PO-Revision-Date: 2026-10-13 13:24+0300\n"
+"Last-Translator: Sergei Kolesnikov <sergei@kolesnikov.se>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -51,7 +51,6 @@ msgstr ""
 
 #. [campaign]: id=Heir_To_The_Throne_Classic
 #: data/campaigns/Heir_To_The_Throne_Classic/_main.cfg:25
-#, fuzzy
 msgid ""
 "This is the original version of this classic campaign, preserved for "
 "historical reasons. Also optionally includes the old <i>Battle Training</i> "
@@ -125,7 +124,6 @@ msgstr "Обучен для битвы"
 
 #. [achievement]: id=completed
 #: data/campaigns/Heir_To_The_Throne_Classic/achievements.cfg:8
-#, fuzzy
 msgid "Complete the old <i>Battle Training</i> tutorial."
 msgstr "Пройдите старый обучающий курс <i>Боевая подготовка</i>."
 
@@ -8494,10 +8492,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/24_Battle_for_Wesnoth.cfg:237
-#, fuzzy
-#| msgid ""
-#| "Surrender, mother. The land’s blood is spent. I have come to take my "
-#| "rightful place."
 msgid ""
 "Surrender, Mother. The land’s blood is spent. I have come to take my "
 "rightful place."
@@ -8918,13 +8912,6 @@ msgstr "Морской орк"
 
 #. [unit_type]: id=Sea Orc, race=orc
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Sea_Orc.cfg:32
-#, fuzzy
-#| msgid ""
-#| "While often viewed as inferior to their land-loving counterparts, Sea "
-#| "Orcs represent a great leap for all goblins as they have adapted to "
-#| "aquatic environments. With their curved swords they are competent "
-#| "fighters, although their lack of a ranged attack and poor defense on land "
-#| "do represent strategic weaknesses."
 msgid ""
 "While often viewed as inferior to their land-loving counterparts, Sea Orcs "
 "represent a great leap for all orcs and goblins as they have adapted to "
@@ -8932,8 +8919,8 @@ msgid ""
 "although their lack of a ranged attack and poor defense on land do represent "
 "strategic weaknesses."
 msgstr ""
-"Сухопутные собраться часто смотрят на них свысока, и всё же морские орки — "
-"представляют из себя огромный шаг вперёд для всех гоблинов, ведь они "
+"Сухопутные собратья часто смотрят на них свысока, и всё же морские орки "
+"представляют собой огромный шаг вперёд для всех орков и гоблинов — ведь они "
 "приспособились к водной среде. Они достойно дерутся кривыми мечами, хотя "
 "неспособность атаковать издали и защищаться на суше делает их очень "
 "уязвимыми."
@@ -8965,7 +8952,7 @@ msgstr ""
 #. [firststrike]: id=initiative
 #: data/campaigns/Heir_To_The_Throne_Classic/utils/abilities.cfg:8
 msgid "first strike"
-msgstr ""
+msgstr "бьёт первым"
 
 #. [firststrike]: id=initiative
 #: data/campaigns/Heir_To_The_Throne_Classic/utils/abilities.cfg:9
@@ -8973,6 +8960,8 @@ msgid ""
 "When under initiative influence, this unit always strikes first when "
 "attacked by melee weapon, even if they are defending."
 msgstr ""
+"Под влиянием инициативы этот боец всегда наносит первый удар в рукопашной "
+"схватке, даже когда обороняется."
 
 #. [firststrike]: id=initiative
 #: data/campaigns/Heir_To_The_Throne_Classic/utils/abilities.cfg:10

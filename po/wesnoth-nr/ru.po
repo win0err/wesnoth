@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-nr\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-07-01 17:45+0500\n"
-"Last-Translator: Alexandr Obolonkin (Alexinor) <obolonkin@proton.me>\n"
+"PO-Revision-Date: 2026-10-13 13:38+0300\n"
+"Last-Translator: Sergei Kolesnikov <sergei@kolesnikov.se>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -859,14 +859,11 @@ msgstr "(<i>Спотыкается</i>) <i>Уф!</i>"
 #. [message]: role=Supporter
 #. sarcasm about the idea of entering the mines where this scenario takes place
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:300
-#, fuzzy
-#| msgid ""
-#| "Great idea, Tallin. It's so dark I probably couldn’t even fight a bat "
-#| "down here."
 msgid ""
 "Great idea, Tallin. It’s so dark I probably couldn’t even fight a bat down "
 "here."
-msgstr "Чудесно, Таллин — да в этих пещерах мне даже летучую мышь не одолеть!"
+msgstr ""
+"Отличная идея, Таллин — тут так темно, что мне и летучую мышь не одолеть!"
 
 #. [message]: type=Blood Bat
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:314
@@ -3176,7 +3173,6 @@ msgstr "Подземное озеро."
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2074
-#, fuzzy
 msgid "Monster! Kill!"
 msgstr "Монстр! Убейте его!"
 
@@ -3411,9 +3407,8 @@ msgstr "Похоже, в конце этого туннеля кроме оче�
 
 #. [message]: speaker=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2350
-#, fuzzy
 msgid "Grrr... Cold. Wet. Mad."
-msgstr "Гррр... Холодно. Мокро."
+msgstr "Гррр... Холодно. Мокро. Бесит."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2356
@@ -3838,20 +3833,14 @@ msgstr "Славно! Что с оружием и доспехами?"
 #. [message]: speaker=Hamel
 #. As you can see, Tallin there are a lot of them ready to be born into battle. Some of us dwarves are experts in the sword, mace, and bow and can aid your veterans in teaching others.
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:164
-#, fuzzy
-#| msgid ""
-#| "As ye ken see, Tallin, there be muckle heaps o’ them, all ready to be "
-#| "borne inta battle. And, some o’ us dwarves be experts in the sword, mace, "
-#| "and bow and ken aid yer veterans in teaching others."
 msgid ""
 "As ye can see, Tallin, there be muckle heaps o’ them, all ready to be borne "
 "inta battle. And, some o’ us dwarves be experts in the sword, mace, and bow "
 "and can aid yer veterans in teaching others."
 msgstr ""
-"Как ты видишь, Таллин, теперь их целая куча, готовая быть использованной в "
-"бою. Мало того, кое-кто из гномов — мастеров меча, лука и булавы, да и твои "
-"ребята, кто поопытней и помастеровитей, могут теперь и других поучить с ними "
-"управляться."
+"Как видишь, Таллин, их теперь целая куча, и все готовы идти в бой. Мало "
+"того, некоторые из гномов — мастера меча, булавы и лука — помогут твоим "
+"ветеранам обучать остальных."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:169
@@ -5521,11 +5510,6 @@ msgstr ""
 #. [story]
 #. My shinsplitters are invaluable for this kind of job. They are brave warriors and don't stop fighting until either they or their opponent lies dead. No fortress can stand against them.
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:73
-#, fuzzy
-#| msgid ""
-#| "My Shinsplitters be invaluable for this kind o’ job. They be braw "
-#| "warriors and dinna stop their assault till either they or their opponent "
-#| "lie dae. Nae a fortress ken stand against them."
 msgid ""
 "My Shinsplitters be invaluable for this kind o’ job. They be braw warriors "
 "and dinna stop their assault till either they or their opponent lie dae. Nae "
@@ -5864,11 +5848,6 @@ msgstr ""
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:252
-#, fuzzy
-#| msgid ""
-#| "Then Tallin and his band hunted down Malifor and destroyed him. Now Lord "
-#| "Tallin is building an alliance of humans, dwarves, dead mages and "
-#| "whatever critters he can find to crush the orcs."
 msgid ""
 "Then Lord Tallin and his band hunted down Malifor and destroyed him. He is "
 "now building an alliance of humans, dwarves, dead mages and whatever "
@@ -7500,11 +7479,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:88
-#, fuzzy
-#| msgid ""
-#| "The torrent of childhood memories and the depth of her grief left her "
-#| "unable to speak. She and Tallin sat together silently holding each-other "
-#| "for some time."
 msgid ""
 "The torrent of childhood memories and the depth of her grief left her unable "
 "to speak. She and Tallin sat together silently holding each other for some "

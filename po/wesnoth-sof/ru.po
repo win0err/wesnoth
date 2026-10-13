@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-sof\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-01 17:24+0500\n"
-"Last-Translator: Alexandr Obolonkin (Alexinor) <obolonkin@proton.me>\n"
+"PO-Revision-Date: 2026-10-13 13:12+0300\n"
+"Last-Translator: Sergei Kolesnikov <sergei@kolesnikov.se>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1801,7 +1801,6 @@ msgstr "Это был Турсаган? Найти его оказалось н�
 #. A bit of the accent, to make him more distinct from Rugnur
 #. "Aye, but it doesn't mean much unless he stops running away from us."
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:375
-#, fuzzy
 msgid "Och, but it donna mean much unless he stops running away from us."
 msgstr "Ага, но это ничего не значит, пока он не перестанет убегать от нас."
 
@@ -1817,7 +1816,6 @@ msgstr ""
 #. [message]: speaker=Baglur
 #. "Come on out, Thursagan!  We need your help with some serious business!"
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:397
-#, fuzzy
 msgid "C’mon out, Thursagan! We need’ya help with some serious business!"
 msgstr "Выходи, Турсаган! Нам нужна твоя помощь в одном важном деле!"
 
@@ -2038,7 +2036,6 @@ msgstr "Гхааах!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:683
-#, fuzzy
 msgid "Yikes!"
 msgstr "Ужас!"
 
@@ -2414,21 +2411,18 @@ msgstr ""
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:717
-#, fuzzy
 msgid ""
 "Hrmm, that’s a good point... Well, these are old mines, not frontier "
 "caverns, we should be able to use the rails and carts, if we’re smart about "
 "it."
 msgstr ""
-"Хм, это верная мысль... Чтож, это — старые шахты, а не приграничные пещеры, "
-"мы сможем воспользоваться рельсами и вагонетками, если хотим сделать это по "
-"уму."
+"Хм, это верная мысль... Что ж, это старые шахты, а не приграничные пещеры, "
+"мы сможем воспользоваться рельсами и вагонетками, если подойти к делу с "
+"умом."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:741
-#, fuzzy
-msgid ""
-"We’re not facing a united enemy, maybe we can use that to our advantage."
+msgid "We’re not facing a united enemy, maybe we can use that to our advantage."
 msgstr ""
 "Мы противостоим не единому врагу, возможно, мы сможем использовать это себе "
 "на пользу."
@@ -3408,7 +3402,6 @@ msgstr ""
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:456
-#, fuzzy
 msgid ""
 "The country between here and Knalga will be swarming with elves. We had "
 "better head back to the abandoned mines north of the Arkan-thoria, where we "
@@ -3867,11 +3860,6 @@ msgstr "Кого же из великих драконов мы повстреч
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:398
-#, fuzzy
-#| msgid ""
-#| "I am Khrakrahs, greatest dragon of all time! Haldric killed Shek’kahan my "
-#| "rival, but he was weaker than me, and you will not find me so easy to "
-#| "defeat. Now get out of my volcano!"
 msgid ""
 "I am Khrakrahs, greatest dragon of all time! Haldric killed Shek’kahan my "
 "brother, but he was weaker than me, and you will not find me so easy to "
@@ -4038,8 +4026,6 @@ msgstr "Подземелье"
 
 #. [unit]: id=Gathor, type=Orcish Warrior
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:116
-#, fuzzy
-#| msgid "Bar'Gathor"
 msgid "Bar’Gathor"
 msgstr "Бар'Гатор"
 
@@ -5005,9 +4991,8 @@ msgstr ""
 
 #. [unit_type]: id=SOF Fire Dragon
 #: data/campaigns/Sceptre_of_Fire/units/Fire_Dragon.cfg:8
-#, fuzzy
 msgid "Legendary Fire Dragon"
-msgstr "Легендарный Огненный Дракон"
+msgstr "Легендарный огненный дракон"
 
 #. [unit_type]: id=Haldric II, race=human
 #: data/campaigns/Sceptre_of_Fire/units/Haldric_II.cfg:4

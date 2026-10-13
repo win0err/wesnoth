@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-l\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-07-01 18:02+0500\n"
-"Last-Translator: Alexandr Obolonkin (Alexinor) <obolonkin@proton.me>\n"
+"PO-Revision-Date: 2026-10-13 13:12+0300\n"
+"Last-Translator: Sergei Kolesnikov <sergei@kolesnikov.se>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1319,7 +1319,6 @@ msgstr "Данэт"
 #. [unit]: type=Skiff, id=Skiff
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:256
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:330
-#, fuzzy
 msgid "Mary’s Minnow"
 msgstr "Гольян Мэри"
 
@@ -1374,21 +1373,15 @@ msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:336
-#, fuzzy
-#| msgid ""
-#| "Since Prince Eldred died in the battle, the Queen took the throne and has "
-#| "been consolidating her power. Part of that has been bringing the elders "
-#| "from the local villages here, forcing them to swear allegiance to her. "
-#| "That was the purpose of that patrol."
 msgid ""
 "The Queen is not popular. She is at war with supporters of the old king, and "
 "searches far and wide for new conscripts. Part of that has been taking "
 "elders from the local villages, forcing them to swear allegiance to her. "
 "That was the purpose of that patrol."
 msgstr ""
-"С тех пор, как принц Элдред погиб в той битве, королева заняла трон и теперь "
-"укрепляет свою власть. В том числе, она созвала сюда старейшин местных "
-"деревень, чтобы заставить их ей присягнуть. Это и было целью того патруля."
+"Королева непопулярна в народе. Она воюет со сторонниками старого короля и "
+"повсюду ищет новобранцев. В том числе она забирает старейшин из местных "
+"деревень, вынуждая их присягнуть ей. Для этого и был тот патруль."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:340
@@ -1474,15 +1467,14 @@ msgstr "А что насчет нас? Бросите нас как псов э�
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:372
-#, fuzzy
 msgid ""
 "Do not put words in my mouth. I am more than willing to act should the need "
 "arise. I am already in covert communication with— ...listen, there is a "
 "bigger picture here, Baldras."
 msgstr ""
 "Не вкладывайте мне слова в уста. Я более чем готов действовать, если "
-"возникнет необходимость. Я уже веду тайную связь с… …слушай, здесь дело не "
-"только в этом, Бальдрас."
+"возникнет необходимость. Я уже веду тайную переписку с… …послушайте, "
+"Бальдрас, здесь замешано нечто большее."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:376
@@ -3071,13 +3063,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:22
-#, fuzzy
-#| msgid ""
-#| "I’m sure them Wesnothians will come back in time and with Maddock holed "
-#| "up in his stupid tower, they’ll eventually siege Elensefar and take the "
-#| "city... but that don’t be my problem anymore. I has me a village to worry "
-#| "about. I need to get back, consult myself with Relana and figure out what "
-#| "to do next. We gots some more time now, but we can’t wait forever."
 msgid ""
 "I’m sure them Wesnothians will come back in time. Maddock sounded like he "
 "had a plan... we’ll see. But that don’t be my problem anymore. I has me a "
@@ -3085,11 +3070,11 @@ msgid ""
 "figure out what to do next. We gots some more time now, but we can’t wait "
 "forever."
 msgstr ""
-"Уверен, эти Веснотцы ещё когда-нибудь к нам вернуться, а пока Маддок засел в "
-"своей бестолковой башне, они со временем осадят Эленсефар и возьмут город... "
-"но эта беда уже не моя. У меня есть деревня — мне о ней и надо заботиться. Я "
-"вернусь, обсужу всё с Реланой, а там уж разберёмся, как жить дальше. Теперь "
-"у нас есть ещё немного времени, но вечно ждать мы не можем."
+"Уверен, эти веснотцы ещё когда-нибудь к нам вернутся. Маддок говорил так, "
+"будто у него есть план... поживём — увидим. Но это уже не моя забота. У меня "
+"есть деревня — мне о ней и надо думать. Вернусь, посоветуюсь с Реланой, и "
+"там уж разберёмся, что делать дальше. Времени у нас теперь чуть больше, но "
+"вечно ждать нельзя."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:25

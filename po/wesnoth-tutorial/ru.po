@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-tutorial\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2024-04-13 23:12+0300\n"
-"Last-Translator: Artem Khrapov <artemkhrapov2001@yandex.ru>\n"
+"PO-Revision-Date: 2026-10-13 10:38+0300\n"
+"Last-Translator: Sergei Kolesnikov <sergei@kolesnikov.se>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -76,18 +76,18 @@ msgid ""
 "<i>Heir to the Throne, Classic</i> optionally includes the old <i>Battle "
 "Training</i> tutorial. Play <i>Battle Training</i>?"
 msgstr ""
+"Кампания <i>Наследник престола (классический)</i> дополнительно включает "
+"старое обучение <i>Боевая подготовка</i>. Запустить <i>Боевую подготовку</i>?"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:113
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:118
-#, fuzzy
-#| msgid "Note"
 msgid "No"
-msgstr "Примечание"
+msgstr "Нет"
 
 #. [objectives]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:149
@@ -99,10 +99,10 @@ msgid ""
 "• <small>Recruiting</small>"
 msgstr ""
 "Вам предстоит изучить основы:\n"
-"• <small> Движения</small>\n"
-"• <small> Нападения </small>\n"
-"• <small> Лечения</small>\n"
-"• <small> Вербовки</small>"
+"• <small>Движения</small>\n"
+"• <small>Нападения</small>\n"
+"• <small>Лечения</small>\n"
+"• <small>Вербовки</small>"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:155
@@ -137,7 +137,7 @@ msgid ""
 msgstr ""
 "Это обучение из двух частей для тех, кто впервые играет в эту игру. В первой "
 "части вас обучат основам передвижения, нападения, лечения и вербовки. Для "
-"начала - выберете героя (оба героя идентичны по характеристикам)"
+"начала - выберите героя (оба героя идентичны по характеристикам)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:192
@@ -179,7 +179,7 @@ msgstr "Щёлкните левой кнопкой мышки на Ли'сар"
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:350
 msgid "To undo your last move, press <b>u</b> or use the right-click menu."
 msgstr ""
-"Чтобы отменить последние перемещение, нажмите кнопку<b>u </b> или "
+"Чтобы отменить последнее перемещение, нажмите кнопку <b>u</b> или "
 "воспользуйтесь контекстным меню на правой кнопки мыши."
 
 #. [hint_message]
@@ -229,12 +229,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:406
 msgid "Move Konrad next to Delfador"
-msgstr "Приведите Конрада к Дефалдору."
+msgstr "Приведите Конрада к Делфадору."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:408
 msgid "Move Li’sar next to Delfador"
-msgstr "Приведите Лисар к Дефалдору."
+msgstr "Приведите Ли'сар к Делфадору."
 
 #. [message]: speaker=student
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:436
@@ -479,7 +479,7 @@ msgstr ""
 "счётчике деревень увеличилось на единицу. (Иконка с домиком наверху экрана "
 "показывает, сколько деревень вы контролируете). Деревни приносят вам золото, "
 "за которое можно нанимать солдат. В начале каждого хода вы будете получать "
-"две золотых монеты, и ещё по одной с каждой деревни, который владеете."
+"две золотых монеты, и ещё по одной с каждой деревни, которой владеете."
 
 #. [disallow_end_turn]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:718
@@ -592,7 +592,7 @@ msgid ""
 msgstr ""
 "Маленькая корона над Ли'сар показывает, что она является лидером войск своей "
 "фракции. В большинстве сценариев гибель лидера повлечет за собой поражение. "
-"Оберегайте его!"
+"Оберегайте её!"
 
 #. [disallow_end_turn]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_1.cfg:854
@@ -1091,7 +1091,7 @@ msgid ""
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
 msgstr ""
-"Дело серьёзно, Лисар! На другом берегу реки засели орки. Они поступили "
+"Дело серьёзно, Ли'сар! На другом берегу реки засели орки. Они поступили "
 "глупо, придя на эльфийскую землю. Мы, эльфы, в лесу быстры и почти "
 "неуязвимы. Победи их вожака, чтобы они нас больше не беспокоили. Я помогу "
 "тебе советами."
@@ -1209,7 +1209,7 @@ msgid ""
 "have been of help against these orcs."
 msgstr ""
 "К сожалению, никто из твоих бойцов не выжил, поэтому тебе придётся нанять "
-"новых. Если бы у тебя остались ветераны, ты мог бы <i>призвать/i> их в этом "
+"новых. Если бы у тебя остались ветераны, ты мог бы <i>призвать</i> их в этом "
 "сценарии. Они бы оказались большим подспорьем в сражении с орками."
 
 #. [hint_message]
@@ -1542,7 +1542,7 @@ msgid ""
 "while Shamans and Archers will only incur a 30% chance."
 msgstr ""
 "Можно, но в воде эльфы (да и орки) уязвимее: скорость передвижения падает, а "
-"также снижается процент<i>защиты</i>. Враг получит 80%-ый шанс попасть по "
+"также снижается процент <i>защиты</i>. Враг получит 80%-ый шанс попасть по "
 "твоим бойцам. Так как показатель защиты эльфов возрастает в лесу, советую "
 "держаться его границ и атаковать орков оттуда: их шанс попадания по твоим "
 "воинам снизится до 40%, а по лучникам и ведуньям - до 30%."
@@ -1918,7 +1918,7 @@ msgstr ""
 "рядом с лекарем, вылечен он будет только один раз.\n"
 "\n"
 "Восстановление здоровья во время отдыха является исключением из правила. "
-"Если боец в течении хода ничего не делал, он восстановит 2 единицы здоровья "
+"Если боец в течение хода ничего не делал, он восстановит 2 единицы здоровья "
 "в дополнение к любому лечению, так что он может восстановить до 10 единиц "
 "здоровья за ход."
 
@@ -1958,7 +1958,7 @@ msgstr ""
 "условия. Туман и пелена будут влиять на то, что вы можете увидеть в этой "
 "таблице, и иногда одна из сторон может быть скрыта; однако все же полезно "
 "проверять эту таблицу, когда начинается сценарий. Вы можете получить доступ "
-"к нему в <b>Меню </b>."
+"к ней в <b>Меню</b>."
 
 #. [hint_message]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1028
@@ -2276,7 +2276,7 @@ msgid ""
 "damage!"
 msgstr ""
 "Повышение уровня полностью меня исцелило! Теперь я очень хорошо владею мечом "
-"и наношу 4 удара по 8 единиц урона каждый. У меня нет способности лидерство, "
+"и наношу 4 удара по 9 единиц урона каждый. У меня нет способности лидерство, "
 "как у капитана, зато мои превосходные боевые навыки позволяют наносить "
 "больше урона!"
 
@@ -2304,7 +2304,7 @@ msgstr "Ааа! Кто теперь будет вести вас к победе
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1506
 msgid "You have beaten the orcs! Well done."
-msgstr ""
+msgstr "Орки разбиты! Отличная работа."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1511
@@ -2319,6 +2319,8 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/00_Tutorial_part_2.cfg:1521
 msgid "Now, continue onwards to play “Heir to the Throne, Classic”..."
 msgstr ""
+"Теперь продолжайте путешествие и сыграйте в «Наследник престола "
+"(классический)»..."
 
 #. [unit_type]: id=Tutorial_Fighter, race=human
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Tutorial_Fighter.cfg:4
@@ -2392,16 +2394,8 @@ msgstr ""
 "полезно для исправления ошибок."
 
 #: data/campaigns/Heir_To_The_Throne_Classic/utils/tutorial_utils.cfg:128
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "<big>Click a mouse button or press the spacebar to continue...</big>"
 msgid "Click a mouse button or press the spacebar to continue..."
-msgstr ""
-"\n"
-"\n"
-"<big>Щёлкните мышкой или нажмите пробел, чтобы продолжить...</big>"
+msgstr "Щёлкните мышкой или нажмите пробел, чтобы продолжить..."
 
 #, fuzzy
 #~| msgid "Tutorial"

@@ -20,8 +20,8 @@ msgstr ""
 "Project-Id-Version: wesnoth-sotbe\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-06-29 17:03+0500\n"
-"Last-Translator: Alexandr Obolonkin (Alexinor) <obolonkin@proton.me>\n"
+"PO-Revision-Date: 2026-10-13 13:40+0300\n"
+"Last-Translator: Sergei Kolesnikov <sergei@kolesnikov.se>\n"
 "Language-Team: https://wiki.wesnoth.org/RussianTranslation\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -102,13 +102,11 @@ msgstr "Разработка кампании"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:41
-#, fuzzy
 msgid "Current Campaign Maintainer"
 msgstr "Поддерживает кампанию"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:47
-#, fuzzy
 msgid "Campaign Maintainers (former)"
 msgstr "Поддерживали кампанию"
 
@@ -1631,7 +1629,6 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:243
-#, fuzzy
 msgid ""
 "Wise decision. We have actually come to speak to the shamans, but while we "
 "are here we must help you out of this scrape. Grüü, fight the humans if you "
@@ -1693,14 +1690,13 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:395
-#, fuzzy
 msgid ""
 "They most probably took the route through the foothills. The journey is time "
 "consuming but much safer compared to the direct route through the Desert of "
 "Death."
 msgstr ""
-"Скорее всего всего, они пошли через предгорья. Дорога займёт много времени, "
-"но будет гораздо безопаснее по сравнению с прямым путем через Пустыню Смерти."
+"Скорее всего, они пошли через предгорья. Дорога займёт много времени, но "
+"будет гораздо безопаснее по сравнению с прямым путём через Пустыню Смерти."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:399
@@ -3653,12 +3649,8 @@ msgstr "Брось его в озеро. Замёрзнет до смерти �
 
 #. [message]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:768
-#, fuzzy
-#| msgid "You retrieve $amount_gold of Grüü's leftover gold."
 msgid "You retrieve $amount_gold of Grüü’s leftover gold."
-msgstr ""
-"Вы получаете груз золотых монет в размере $amount_gold в качестве остатка "
-"стороны Груу."
+msgstr "Вы забираете $amount_gold золота, оставшегося от Груу."
 
 #. [scenario]: id=15_Civil_War
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:4
@@ -4204,6 +4196,8 @@ msgid ""
 "ensure no messages reached Dwarven Doors. I suppose it was only a matter of "
 "time..."
 msgstr ""
+"Проклятье! Он уже здесь?! Я подкупил гонцов Альянса, чтобы ни одна весть не "
+"достигла Гномьих Врат. Впрочем, полагаю, это был лишь вопрос времени..."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:444
@@ -4842,7 +4836,6 @@ msgstr "Дальний бой: проклятие +1 урон"
 #. [message]: speaker=narrator
 #. newlines at the end are deliberate, and function as spacers before the [option]s
 #: data/campaigns/Son_Of_The_Black_Eye/utils/1-amla.cfg:350
-#, fuzzy
 msgid ""
 "Congratulations, your $unit.language_name has leveled up... but they’re "
 "already at their max level!\n"
